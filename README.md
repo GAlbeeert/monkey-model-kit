@@ -12,7 +12,7 @@ You can create Projects, which will keep all your model kit related data such as
 
 and create Project time lists that you will be able to modify by adding times manually in the CLI to calculate the Total time.
 
- The Project's files will be stored as [this files](DataFiles/User1.txt) or [this one](DataFiles/User2.txt)
+ The Project's files will be stored as [this file](DataFiles/User1.txt) or [this one](DataFiles/User2.txt)
 
 ![smoile](https://user-images.githubusercontent.com/48187939/148104181-08977639-c1a6-4538-acc3-6bbb2c32a19c.png)
 
