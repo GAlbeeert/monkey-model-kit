@@ -1,0 +1,5 @@
+{'Username' 'Number of projects (3)' 'Uname's password'}
+
+1 = {MG, NU VerKA, 60, 16, 52, 03} #Price is in units (euros, dollars, etc) not in cents #Last three numbers is total build time formated as such : Hours, Minutes, and seconds
+2 = {RG, Sazabi, 55, 17, 20, 48}
+3 = {PGU, RX78-2, 280, 30, 52, 15}

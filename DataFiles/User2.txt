@@ -1,0 +1,4 @@
+{'Username of second user' ' NoP of seccond user (2)' 'Second Uname's password'}
+
+1 = {HG, RX78-2, 15, 6, 00, 12}
+2 = {EG, RX78-2, 10, 0, 49, 25}
