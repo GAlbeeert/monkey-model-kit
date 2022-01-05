@@ -5,7 +5,7 @@ Monkey ModelKit (shortenned in MMK or MKMK/MkMK) is a CLI app supposed to help m
 
 You can create Projects, which will keep all your model kit related data such as :
 
-    - the grade of the build (entry to perfect grade for now)
+    - The grade of the build (entry to perfect grade for now)
     - Name of the said  model kit
     - Price of the model kit
     - Total time to build the model kit
