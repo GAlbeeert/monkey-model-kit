@@ -16,7 +16,7 @@ and create Project time lists that you will be able to modify by adding times ma
 
 # Installation (mmk alpha 0.1)
 
-For now, to install the "app", you must download the repo and use the `cmake` command. This will build the add files and especially a Makefile. <br>
+For now, to install the "app", you must download the repo and use the `cmake .` command. This will build the add files and especially a Makefile. <br>
 Once this is done, open a terminal in the directory where is the Makefile (and the rest of the files are) and execute `make`<br>
 This will again create a new file called MMK, this one tho will be the binary that will be executable.
 
